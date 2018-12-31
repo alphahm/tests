@@ -1,5 +1,6 @@
 <?php
 
+// Fibonacci recursion test
 function fibonacci($n)
 {
     if ($n == 1 || $n == 0) {
